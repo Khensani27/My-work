@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Library_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\controllers\\borrowed_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\controllers\\borrowed_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\models\\borrowed_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\models\\borrowed_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\migrations\\20240921213719_adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\migrations\\20240921213719_adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\migrations\\20240903183822_bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\migrations\\20240903183822_bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\properties\\publishprofiles\\libraryap - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\properties\\publishprofiles\\libraryap - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\library_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\library_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\library_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\library_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|c:\\development\\library_api\\library_api\\migrations\\20240902212306_userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF745C78-475E-4727-88BB-BB5C2C6EE853}|Library_API\\Library_API.csproj|solutionrelative:library_api\\migrations\\20240902212306_userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Library_API\\Models\\Users.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Models\\Users.cs",
+              "RelativeToolTip": "Library_API\\Models\\Users.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:52:43.419Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Program.cs",
+              "RelativeDocumentMoniker": "Library_API\\Program.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Program.cs",
+              "RelativeToolTip": "Library_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:25:46.772Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrowed_BookController.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Controllers\\Borrowed_BookController.cs",
+              "RelativeDocumentMoniker": "Library_API\\Controllers\\Borrowed_BookController.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Controllers\\Borrowed_BookController.cs",
+              "RelativeToolTip": "Library_API\\Controllers\\Borrowed_BookController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAYwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:06:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Library_API\\appsettings.json",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\appsettings.json",
+              "RelativeToolTip": "Library_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T20:50:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library_API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library_API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:58:46.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrowed_Books.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Models\\Borrowed_Books.cs",
+              "RelativeDocumentMoniker": "Library_API\\Models\\Borrowed_Books.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Models\\Borrowed_Books.cs",
+              "RelativeToolTip": "Library_API\\Models\\Borrowed_Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:51:17.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Library_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Library_API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:41:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Library_API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Data\\DataContext.cs",
+              "RelativeToolTip": "Library_API\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:57:11.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Library_API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Library_API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:58:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Library_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Library_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:55:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240921213719_AdminEntity.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240921213719_AdminEntity.cs",
+              "RelativeDocumentMoniker": "Library_API\\Migrations\\20240921213719_AdminEntity.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240921213719_AdminEntity.cs",
+              "RelativeToolTip": "Library_API\\Migrations\\20240921213719_AdminEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:37:23.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Library_API\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Library_API\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:13:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240903183822_BookEntity.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240903183822_BookEntity.cs",
+              "RelativeDocumentMoniker": "Library_API\\Migrations\\20240903183822_BookEntity.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240903183822_BookEntity.cs",
+              "RelativeToolTip": "Library_API\\Migrations\\20240903183822_BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:38:27.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Library_API\\Models\\Books.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Models\\Books.cs",
+              "RelativeToolTip": "Library_API\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:53:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Library_API.http",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Library_API.http",
+              "RelativeDocumentMoniker": "Library_API\\Library_API.http",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Library_API.http",
+              "RelativeToolTip": "Library_API\\Library_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-18T18:43:41.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Library_API",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Library_API.csproj",
+              "RelativeDocumentMoniker": "Library_API\\Library_API.csproj",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Library_API.csproj",
+              "RelativeToolTip": "Library_API\\Library_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T18:44:55.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Library_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Library_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-18T18:45:24.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Library_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Library_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T08:58:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryAP - Web Deploy.pubxml",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Properties\\PublishProfiles\\LibraryAP - Web Deploy.pubxml",
+              "RelativeDocumentMoniker": "Library_API\\Properties\\PublishProfiles\\LibraryAP - Web Deploy.pubxml",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Properties\\PublishProfiles\\LibraryAP - Web Deploy.pubxml",
+              "RelativeToolTip": "Library_API\\Properties\\PublishProfiles\\LibraryAP - Web Deploy.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-18T18:45:32.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Models\\Admins.cs",
+              "RelativeDocumentMoniker": "Library_API\\Models\\Admins.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Models\\Admins.cs",
+              "RelativeToolTip": "Library_API\\Models\\Admins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:58:51.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240902212306_UserEntity.cs",
+              "DocumentMoniker": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240902212306_UserEntity.cs",
+              "RelativeDocumentMoniker": "Library_API\\Migrations\\20240902212306_UserEntity.cs",
+              "ToolTip": "C:\\Development\\Library_API\\Library_API\\Migrations\\20240902212306_UserEntity.cs",
+              "RelativeToolTip": "Library_API\\Migrations\\20240902212306_UserEntity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:23:17.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
