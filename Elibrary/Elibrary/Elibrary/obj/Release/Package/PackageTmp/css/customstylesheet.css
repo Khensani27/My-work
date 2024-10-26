@@ -1,0 +1,14 @@
+﻿#footer1 {
+    background: #2596be;
+    padding: 15px; /* Add padding to ensure content doesn't hit the edges */
+    margin: 0 auto;
+}
+
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
