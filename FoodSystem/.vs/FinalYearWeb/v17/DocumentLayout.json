@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\FoodSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|c:\\development\\foodsystem\\managerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:managerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\customerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:customerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\managerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:managerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\controllers\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:controllers\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\detailspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:detailspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\detailspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:detailspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\allcustomers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:allcustomers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\storesales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:storesales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\storesales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:storesales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\allcustomers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:allcustomers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\customerfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:customerfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\updatemenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:updatemenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\storestats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:storestats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\updatemenuitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:updatemenuitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\updatemenuitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:updatemenuitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\kitchenstaff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:kitchenstaff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\updatemenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:updatemenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\updateemployeeinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:updateemployeeinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\storestats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:storestats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\kitchenstaff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:kitchenstaff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\employeemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:employeemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\deleteimenuitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:deleteimenuitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\deleteemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:deleteemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\customerfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:customerfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\createspecials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:createspecials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\addnewmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:addnewmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|C:\\Development\\FoodSystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99B42183-000E-4DCC-BB29-0ECEE60DD1BA}|FinalYearWeb.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerHome.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\CustomerHome.aspx.cs",
+              "RelativeDocumentMoniker": "CustomerHome.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\CustomerHome.aspx.cs",
+              "RelativeToolTip": "CustomerHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:53.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerHome.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\ManagerHome.aspx",
+              "RelativeDocumentMoniker": "ManagerHome.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\ManagerHome.aspx",
+              "RelativeToolTip": "ManagerHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T21:35:54.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerHome.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\CustomerHome.aspx",
+              "RelativeDocumentMoniker": "CustomerHome.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\CustomerHome.aspx",
+              "RelativeToolTip": "CustomerHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllCustomers.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\AllCustomers.aspx.cs",
+              "RelativeDocumentMoniker": "AllCustomers.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\AllCustomers.aspx.cs",
+              "RelativeToolTip": "AllCustomers.aspx.cs",
+              "ViewState": "AQIAAGMAAACANjMzMzMbwGwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\Controllers\\Base.cs",
+              "RelativeDocumentMoniker": "Controllers\\Base.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\Controllers\\Base.cs",
+              "RelativeToolTip": "Controllers\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:35:54.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerHome.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\ManagerHome.aspx.cs",
+              "RelativeDocumentMoniker": "ManagerHome.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\ManagerHome.aspx.cs",
+              "RelativeToolTip": "ManagerHome.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA8wCMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllCustomers.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\AllCustomers.aspx",
+              "RelativeDocumentMoniker": "AllCustomers.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\AllCustomers.aspx",
+              "RelativeToolTip": "AllCustomers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsPage.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\DetailsPage.aspx",
+              "RelativeDocumentMoniker": "DetailsPage.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\DetailsPage.aspx",
+              "RelativeToolTip": "DetailsPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailsPage.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\DetailsPage.aspx.cs",
+              "RelativeDocumentMoniker": "DetailsPage.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\DetailsPage.aspx.cs",
+              "RelativeToolTip": "DetailsPage.aspx.cs",
+              "ViewState": "AQIAAGsAAADAxN3d3V0owHAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreSales.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\StoreSales.aspx",
+              "RelativeDocumentMoniker": "StoreSales.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\StoreSales.aspx",
+              "RelativeToolTip": "StoreSales.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreSales.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\StoreSales.aspx.cs",
+              "RelativeDocumentMoniker": "StoreSales.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\StoreSales.aspx.cs",
+              "RelativeToolTip": "StoreSales.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreStats.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\StoreStats.aspx.cs",
+              "RelativeDocumentMoniker": "StoreStats.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\StoreStats.aspx.cs",
+              "RelativeToolTip": "StoreStats.aspx.cs",
+              "ViewState": "AQIAAHkAAAAA2MzMzMwEwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\UpdateMenu.aspx.cs",
+              "RelativeDocumentMoniker": "UpdateMenu.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\UpdateMenu.aspx.cs",
+              "RelativeToolTip": "UpdateMenu.aspx.cs",
+              "ViewState": "AQIAAAwAAAAADREREREJwCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerFeedback.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\CustomerFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "CustomerFeedback.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\CustomerFeedback.aspx.cs",
+              "RelativeToolTip": "CustomerFeedback.aspx.cs",
+              "ViewState": "AQIAABIAAAAAhYiIiIgUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateMenuItem.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\UpdateMenuItem.aspx.cs",
+              "RelativeDocumentMoniker": "UpdateMenuItem.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\UpdateMenuItem.aspx.cs",
+              "RelativeToolTip": "UpdateMenuItem.aspx.cs",
+              "ViewState": "AQIAAAoAAACAHiIiIiISwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateMenuItem.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\UpdateMenuItem.aspx",
+              "RelativeDocumentMoniker": "UpdateMenuItem.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\UpdateMenuItem.aspx",
+              "RelativeToolTip": "UpdateMenuItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Development\\FoodSystem\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-26T21:35:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetails.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\OrderDetails.aspx",
+              "RelativeDocumentMoniker": "OrderDetails.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\OrderDetails.aspx",
+              "RelativeToolTip": "OrderDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\Controllers\\Authentication.cs",
+              "RelativeDocumentMoniker": "Controllers\\Authentication.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\Controllers\\Authentication.cs",
+              "RelativeToolTip": "Controllers\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:35:54.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KitchenStaff.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\KitchenStaff.aspx.cs",
+              "RelativeDocumentMoniker": "KitchenStaff.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\KitchenStaff.aspx.cs",
+              "RelativeToolTip": "KitchenStaff.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\OrderDetails.aspx.cs",
+              "RelativeDocumentMoniker": "OrderDetails.aspx.cs",
+              "ToolTip": "C:\\Development\\FoodSystem\\OrderDetails.aspx.cs",
+              "RelativeToolTip": "OrderDetails.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-26T21:35:54.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeManagement.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\EmployeeManagement.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\EmployeeManagement.aspx",
+              "RelativeToolTip": "EmployeeManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KitchenStaff.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\KitchenStaff.aspx",
+              "RelativeDocumentMoniker": "KitchenStaff.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\KitchenStaff.aspx",
+              "RelativeToolTip": "KitchenStaff.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateMenu.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\UpdateMenu.aspx",
+              "RelativeDocumentMoniker": "UpdateMenu.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\UpdateMenu.aspx",
+              "RelativeToolTip": "UpdateMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteIMenuItem.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\DeleteIMenuItem.aspx",
+              "RelativeDocumentMoniker": "DeleteIMenuItem.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\DeleteIMenuItem.aspx",
+              "RelativeToolTip": "DeleteIMenuItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateEmployeeInfo.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\UpdateEmployeeInfo.aspx",
+              "RelativeDocumentMoniker": "UpdateEmployeeInfo.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\UpdateEmployeeInfo.aspx",
+              "RelativeToolTip": "UpdateEmployeeInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteEmployee.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\DeleteEmployee.aspx",
+              "RelativeDocumentMoniker": "DeleteEmployee.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\DeleteEmployee.aspx",
+              "RelativeToolTip": "DeleteEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StoreStats.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\StoreStats.aspx",
+              "RelativeDocumentMoniker": "StoreStats.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\StoreStats.aspx",
+              "RelativeToolTip": "StoreStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerFeedback.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\CustomerFeedback.aspx",
+              "RelativeDocumentMoniker": "CustomerFeedback.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\CustomerFeedback.aspx",
+              "RelativeToolTip": "CustomerFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateSpecials.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\CreateSpecials.aspx",
+              "RelativeDocumentMoniker": "CreateSpecials.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\CreateSpecials.aspx",
+              "RelativeToolTip": "CreateSpecials.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddNewMenu.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\AddNewMenu.aspx",
+              "RelativeDocumentMoniker": "AddNewMenu.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\AddNewMenu.aspx",
+              "RelativeToolTip": "AddNewMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Development\\FoodSystem\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Development\\FoodSystem\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-26T21:35:54.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

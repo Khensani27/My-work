@@ -1,0 +1,138 @@
+.container1 {
+     float: left; /* Float the containers to the left so they align horizontally */
+    box-sizing: border-box; /* Include padding and border in the width */
+    padding: 5px;
+	 border: 1px ; /* Add a border to the containers */
+	transition: border-color 0.3s;
+	margin-right: 10px;
+	background-color:white;
+	border-radius: 10px;
+}
+
+ .icon-container {
+      display: inline-block; /* Display the container as an inline-block element */
+      margin-right: 30px; /* Add some space to the right of the container */
+    }
+	
+ .container2 {
+    background-color:white;
+    margin: 10px; /* Add margin for spacing between containers */
+    display: inline-block; /* Set display to inline-block to align them vertically */
+    vertical-align: top; /* Align containers to the top of the line */
+    border: 1px ;  /*Add a border for visualization */
+    padding: 10px; 
+	border-radius: 10px;
+  }
+  
+  .header-cell {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white; 
+  
+}
+
+.data-cell {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #4CAF50; 
+
+}
+
+ .headerR {
+	 background-color: #4CAF50;
+    
+color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid green; 
+  
+}
+
+.dataR {
+    text-align: left;
+    padding: 5px;
+    border: 1px solid green; 
+
+}
+	
+	
+
+ h3 {
+     font-family: Arial, sans-serif;
+     font-size: 25px;
+     font-weight: bold;
+     color: #333;
+ }
+ 
+ 
+ .progress-container {
+            width: 100%;
+            background-color: #f1f1f1;
+            border-radius: 20px;
+}
+
+.progress-bar {
+            text-align: center;
+            padding: 10px;
+            color: white;
+            border-radius: 20px;
+			height: 50px;
+}
+
+.students-bar {
+           /* width: 50%; */
+            background-color: #007bff;
+}
+
+.uj-staff-bar {
+           /* width: 50%;*/ 
+            background-color: #28a745;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-icon {
+    margin-right: 10px; 
+}
+
+.search-container,
+.container3 {
+    display: inline-block; /* Set display property to inline-block */
+    margin-right: 50px; /* Add some margin between the two divs */
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+  outline: 1px solid #494a4f;
+  border-radius: 1px;
+  border: none;
+}
+
+.hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: white;
+}
